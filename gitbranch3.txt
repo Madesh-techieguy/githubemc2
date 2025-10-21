@@ -1,0 +1,5 @@
+new branch and new file is created in the vscode itself
+
+
+creating new branch in vscode the command is 
+  ########### git branch newbranchname
